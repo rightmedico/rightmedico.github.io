@@ -258,3 +258,36 @@
   transition: all 0.35s;
   outline: none;
 }
+
+.main_btn a {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  text-decoration: none;
+}
+
+.main__btn:after {
+  position: ansolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #4837ff;
+  transition: all 0.35s;
+  border-radius: 4px;
+}
+
+.main__btn:hover {
+  color: #fff;
+}
+.main__btn:hover:after {
+  width: 100;
+}
+.main_img--container {
+  text-align: center;
+}
+#main_img {
+  height: 80%;
+  width: 80%;
+}
