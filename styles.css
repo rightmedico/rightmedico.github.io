@@ -259,7 +259,7 @@
   outline: none;
 }
 
-.main_btn a {
+.main__btn a {
   position: relative;
   z-index: 2;
   color: #fff;
@@ -286,18 +286,18 @@
   width: 100;
 }
 
-.main_img--container {
+.main__img--container {
   text-align: center;
 }
 
-#main_img {
+#main__img {
   height: 80%;
   width: 80%;
 }
 
 /*Mobile REsponsive*/
 @media screen and (max-width: 768px) {
-  .main_container {
+  .main__container {
     display: grid;
     grid-template-columns: auto;
     align-items: center;
