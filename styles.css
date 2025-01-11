@@ -10,7 +10,7 @@
   height: 80px;
   display: flex;
   justify-content: center;
-  allign-items: center;
+  align-items: center;
   font-sizes: 1.2rem;
   position: sticky;
   top: 0;
@@ -37,7 +37,7 @@
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
   display: flex;
-  allign-items: center;
+  align-items: center;
   cursor: pointer;
   text-decoration: none;
   fonbt-size: 2rem;
