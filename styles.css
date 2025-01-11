@@ -281,13 +281,30 @@
 .main__btn:hover {
   color: #fff;
 }
+
 .main__btn:hover:after {
   width: 100;
 }
+
 .main_img--container {
   text-align: center;
 }
+
 #main_img {
   height: 80%;
   width: 80%;
+}
+
+/*Mobile REsponsive*/
+@media screen and (max-width: 768px) {
+  .main_container {
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+    margin: 0 auto;
+    height: 90vh:
+  }
+  
 }
