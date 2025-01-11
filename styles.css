@@ -112,9 +112,9 @@
     padding: 0;
   }
   
-  .navbar__menu{
+  .navbar__menu {
     display: grid;
-    grid-template-coloumns: auto;
+    grid-template-columns: auto;
     margin: 0;
     width: 100%;
     position: absolute;
