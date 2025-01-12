@@ -413,3 +413,23 @@
   top: 350px:
   left: 30px;
 }
+
+.services__card p {
+  position: absolute;
+  top: 400px;
+  left: 30px;
+}
+
+.services__card button {
+  color: #fff;
+  padding: 10ps 20px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  position: absolute;
+  top: 440px;
+  left: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
