@@ -380,7 +380,7 @@
 .services__container {
   display: flex;
   justify-content: center;
-  flex-wraps: wrap; 
+  flex-wrap: wrap; 
 }
 
 .services__card {
