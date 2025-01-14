@@ -388,7 +388,7 @@
   height: 525px;
   width: 400px;
   border-radius: 4px;
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/pic3.jpg');
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('pic3.jpg');
 
 
 
@@ -405,7 +405,7 @@
   
   
   
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/pic4.jpg');
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('pic4.jpg');
 }
 
 .services h2 {
