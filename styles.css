@@ -199,7 +199,7 @@
 
 /* Hero section Css */
 .main {
-  background-color: #008260;
+  background-color: #454E46;
 }
 
 .main__container {
@@ -209,7 +209,7 @@
   justify-self: center;
   margin: 0 auto;
   height: 90vh;
-  background-color: #008260;
+  background-color: #454E46;
   z-index: 1;
   width: 100%;
   max-width: 1300px;
@@ -350,7 +350,7 @@
 
 /* Services CSS*/
 .services {
-  background: #008060;
+  background: #454E46;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -467,7 +467,7 @@
 
 /* footer CSS */
 .footer__container {
-  background-color: #008060;
+  background-color: #454E46;
   padding: 5rem 0;
   display: flex;
   flex-direction: column;
